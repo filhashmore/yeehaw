@@ -28,6 +28,7 @@
     
     <!-- Additional Meta -->
     <meta name="theme-color" content="#000000">
+    <link rel="manifest" href="manifest.json">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
@@ -398,6 +399,18 @@
 
         ::-webkit-scrollbar-thumb:hover {
             background: #444;
+        }
+
+        /* Reduced Motion - Accessibility */
+        @media (prefers-reduced-motion: reduce) {
+            *,
+            *::before,
+            *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+                scroll-behavior: auto !important;
+            }
         }
     </style>
 </head>

@@ -1,0 +1,17 @@
+{
+  "name": "YEEHAW - FILMORE x Pitbull",
+  "short_name": "YEEHAW",
+  "description": "Behind the scenes of YEEHAW. Join the movement.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "yeehaw-social-share.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
