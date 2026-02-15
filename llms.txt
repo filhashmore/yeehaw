@@ -1,0 +1,43 @@
+# YEEHAW — FILMORE x Pitbull
+
+> Promotional landing page for the FILMORE x Pitbull collaboration single "YEEHAW," featuring behind-the-scenes content and streaming links via Sony Music.
+
+## Site Info
+
+- URL: https://yeehaw-beta.vercel.app
+- Author: FiL Hash
+- Contact: filhashmore@protonmail.com
+- GitHub: https://github.com/filhashmore/yeehaw
+- X/Twitter: https://x.com/FiLHashDev
+- Stack: HTML5, CSS3, Google Fonts, YouTube Embed, Vercel
+- Type: Static promotional landing page
+
+## Pages
+
+- [Home](https://yeehaw-beta.vercel.app): Full landing page with video, artist imagery, and streaming CTA
+
+## About the Artist
+
+FILMORE is a Nashville-based artist who collaborated with Pitbull on the track "YEEHAW." This site serves as a behind-the-scenes promotional platform released through Sony Music, featuring the official music video and direct streaming links.
+
+## Key Features
+
+- Embedded YouTube music video (behind-the-scenes content)
+- Responsive design with mobile-first approach
+- "Stream Now!" CTA linking to Sony Music fan platform
+- Dark aesthetic with animated typography (Bebas Neue + Outfit fonts)
+- PWA-enabled for mobile installation
+- Accessibility: prefers-reduced-motion support
+
+## Access
+
+No authentication required. Public promotional site.
+
+## External Links
+
+- Stream: https://forms.sonymusicfans.com/campaign/yeehaw/
+- YouTube Video: https://www.youtube.com/embed/UuM2RiD1sfI
+
+## Contact
+
+Available for freelance and collaboration. Email filhashmore@protonmail.com, follow on X at https://x.com/FiLHashDev, or visit GitHub at https://github.com/filhashmore/yeehaw.

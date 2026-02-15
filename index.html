@@ -1,3 +1,4 @@
+<!-- AI/LLM Context: This site provides structured context for AI agents at /llms.txt (summary). Sitemap at /sitemap.xml -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,6 +27,10 @@
     <meta name="twitter:image" content="https://yeehaw-beta.vercel.app/yeehaw-social-share.jpg">
     <meta name="twitter:image:alt" content="FILMORE x Pitbull - YEEHAW (BTS)">
     
+    <!-- AI / LLM Context -->
+    <link rel="ai-context" href="/llms.txt" type="text/markdown" title="AI context summary" />
+    <meta name="ai-context" content="/llms.txt" />
+
     <!-- Additional Meta -->
     <meta name="theme-color" content="#000000">
     <link rel="manifest" href="manifest.json">
@@ -413,6 +418,11 @@
             }
         }
     </style>
+
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"WebSite","name":"YEEHAW - FILMORE x Pitbull","url":"https://yeehaw-beta.vercel.app","description":"Behind the scenes of YEEHAW. Join the movement.","author":{"@type":"Person","name":"FiL Hash","sameAs":["https://x.com/FiLHashDev","https://github.com/filhashmore"]}}
+    </script>
 </head>
 <body>
 
